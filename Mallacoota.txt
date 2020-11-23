@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Sample Web page</title>
+</head>
+<body>
+<body style="background-color:#EBF4FA;">
+  <CENTER>
+ <h1 style="font-family:verdana">Mallacoota Fires</h1>
+<hr>
+  <p>The region surrounding Mallacoota was heavily affected by the summer bushfires. The town, located 520 km east of Melbourne, was seen as the 'face' of the crisis with the mass evacuation of locals and holiday makers in early January <a href="References.html">(Herald Sun, 2020).</a> </p>
+  <p> The satellite imagery below shows the effects of the fires before and after the crisis. Significant areas of forest to the west and north of Mallacoota burned whilst the land to the east of the town was spared.</p>
+
+<div class="flourish-embed" data-src="visualisation/1304425" data-url="https://public.flourish.studio/visualisation/1304425/embed" aria-label="" data-width="75%"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+  <p style="color:darkblue">Figure 1. Image comparing Mallacoota and sourrounds before and after the summer bushfires <a href="References.html">(Freeland, 2020)</a>.</p>
+  <p style="border:3px; border-style:solid; border-color:#000000; padding: 0.5em; width:1121px;
+">
+[ <a href="index.html">Home</a> ]
+[ <a href="Batemans Bay.html">Batemans Bay Fires</a> ]
+[ <a href="Corryong.html">Corryong Fires</a> ]
+[ <a href="Mallacoota.html">Mallacoota Fires</a> ]
+[ <a href="MODIS.kmz">MODIS</a> ]
+[ <a href="weather.kml">Weather Information</a> ]
+[ <a href="References.html">References</a> ]
+  </p>
+</center>
+</body>
+</html>

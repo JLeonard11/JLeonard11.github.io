@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Corryong Fires</title>
+</head>
+<body>
+<body style="background-color:#EBF4FA;">
+  <CENTER>
+<h1 style="font-family:verdana"> Corryong Fires </h1>
+<hr>
+  <p>The township of Corryong is located along the border of New South Wales and Victoria and was straddled by several fires during the 2019-2020 bushfire season. During the peak of the crisis, there were concerns that a 'megablaze' could form with a 10 km buffer separating the fires along the border in New South Wales and Victoria <a href="References.html">(McArthur, Waters & Simonis, 2020)<a/></p>
+  <p>The town was in the path of the <b>Green Valley fire</b> with fears that the <b>East Ournie Creek fire</b> and the <b>Dunns Road fire</b> would combine to create a 'megablaze' <a href="References.html">(Drevikovsky, 2020)</a>.</p>
+  <p> Over <b>800, 000 hectares</b> of land was burned from these three fires <a href="References.html">(Drevikovsky, 2020)</a>. 
+  <p> The image below displays the extent of the fires in the region, as well as a timeline regarding their formation and movement. </p>
+<hr>
+<IMG SRC="Corryong_mega_fire.jpg" ALT="Corryong Mega Fire">
+
+  <p style="color:darkblue"> Figure 1. Map showing the total area of the fires and timeline of events <a href="References.html">(Drevikovsky, 2020)</a>. 
+
+  <p style="border:3px; border-style:solid; border-color:#000000; padding: 0.5em; width:1121px;
+">
+[ <a href="index.html">Home</a> ]
+[ <a href="Batemans Bay.html">Batemans Bay Fires</a> ]
+[ <a href="Corryong.html">Corryong Fires</a> ]
+[ <a href="Mallacoota.html">Mallacoota Fires</a> ]
+[ <a href="MODIS.kmz">MODIS</a> ]
+[ <a href="weather.kml">Weather Information</a> ]
+[ <a href="References.html">References</a> ]
+  </p>
+</CENTER>
+</body>
+</html>
